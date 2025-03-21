@@ -1,4 +1,4 @@
-## Hi, It's Sherry Xu here 👋
+## Hi, It's Marina Xu here 👋
 
 <!--
 **XU1hE/XU1hE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
