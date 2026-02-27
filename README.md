@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 
 - 🎒 I’m an ECE Graduate Student at UCLA
 - 🎓 Received my B.Eng. in EIE/EEE from UESTC
-- 🔭 Currently, I'm working with [UCLA HCI](https://hci.ucla.edu/#projects) on RAG for creative hypothesis generation.
+- 🔭 Currently, I'm working with [UCLA HCI Research](https://hci.ucla.edu/#projects) on RAG for creative hypothesis generation.
 
 I love sunshine 🌞 and playing the keyboard 🎹
