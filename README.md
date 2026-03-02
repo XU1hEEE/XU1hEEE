@@ -18,6 +18,6 @@ Here are some ideas to get you started:
 - 🎒 I’m an ECE Graduate Student at UCLA
 - 🎓 Received my B.Eng. in EIE/EEE from UESTC
 - 🔭 Currently, I'm working with [UCLA HCI Research](https://hci.ucla.edu/#projects) on RAG for creative hypothesis generation.
-- 🌱 I code interesting [projects](https://github.com/XU1hEEE/My-Projects), and in my downtime, I [read](https://github.com/XU1hEEE/My-Reading) and [write](https://xu1heee.github.io/basquecake-hai/).
+- 🌱 I code interesting [projects](https://github.com/XU1hEEE/My-Projects), and in my downtime, I enjoy [reading](https://github.com/XU1hEEE/My-Reading) and [writing](https://xu1heee.github.io/basquecake-hai/).
 
 I love sunshine 🌞 and playing the keyboard 🎹
