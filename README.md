@@ -15,9 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🎒 I’m an ECE Graduate Student at UCLA
-- 🎓 Received my B.Eng. in EIE/EEE from UESTC
-- 🔭 Currently working with [UCLA HCI Research](https://hci.ucla.edu/#projects) on RAG for creative hypothesis generation.
-- 🌱 I [train](https://github.com/XU1hEEE/My-Projects), [read](https://github.com/XU1hEEE/My-Reading) and [write](https://xu1heee.github.io/basquecake-hai/).
+- 🎒 I’m an ECE graduate student at [UCLA HCI](https://hci.ucla.edu/#projects)
+- 🎓 Received Dual B.Eng. degrees in EIE/EEE from [UESTC](https://en.uestc.edu.cn/) 
+- 👩‍💻 Currently [Building](https://github.com/XU1hEEE/My-Projects) · [Reading](https://github.com/XU1hEEE/My-Reading) · [Writing](https://xu1heee.github.io/basquecake-hai/) about Auto Reasoning · Agentic AI · LLM Systems Eval
+- 🤝 Connect with me >> [SWE Los Angeles](https://losangeles.swe.org/), [SWE @ UCLA](https://ucla.swe.org/), [ACM AI @ UCLA](https://ai.uclaacm.com/), [First-Gen @ UCLA](https://firsttogo.ucla.edu/)
+- 💬 Chat with me >> marinaxu27 [at] gmail.com
 
-I love sunshine 🌞 and playing the keyboard 🎹
+Love sunshine 🌞, fast food 🍕, and playing the keyboard 🎹. 
